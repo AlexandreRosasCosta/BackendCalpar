@@ -1,0 +1,6 @@
+@BackendCalpar_HostAddress = https://localhost:5001
+
+GET {{BackendCalpar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
